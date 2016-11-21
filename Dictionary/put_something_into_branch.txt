@@ -1,0 +1,5 @@
+this is what I put into my 1st branch.
+so just typing something here.
+maybe I'll try to merge it. 
+
+I had just created the branch by typing : git checkout -b <new-branch-name>
